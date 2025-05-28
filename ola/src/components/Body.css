@@ -11,3 +11,18 @@
 .titulo2{
     border: 1px solid #eee7aa;
 }
+
+.cont{
+    display: flex;
+    margin: 5px;
+    gap: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    /* border: 1px solid #78bb4b; */
+    box-shadow: 0 0 5px #b84835;
+}
+
+button{
+    padding: 5px;
+    color: #d18e36;
+}
